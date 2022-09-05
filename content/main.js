@@ -5,13 +5,14 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
-    image: '/img/hero.jpeg',
+    heading: "I'm Rhea and I create",
+    image:
+      'https://cdn.pixabay.com/photo/2015/03/12/18/35/girl-670606_1280.jpg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
-      facebook: { link: 'https://facebook.com', show: true },
-      instagram: { link: 'https://instagram.com', show: true },
-      linkedin: { link: 'https://linkedin.com', show: true },
+      facebook: { link: 'https://facebook.com/rhea', show: true },
+      instagram: { link: 'https://instagram.com/rhea', show: true },
+      linkedin: { link: 'https://linkedin.com/rhea', show: true },
     },
     typed: [
       { text: 'fast websites.' },
@@ -22,7 +23,7 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: 'Rhea ipsum dolor sit amet, consectetur Dieberger elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
   },
   features: [
     {
@@ -82,5 +83,5 @@ export const attributes = {
     ],
     title: 'My work',
   },
-  footer: { text: '© John Doe' },
+  footer: { text: '© Rhea' },
 };
